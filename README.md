@@ -1,7 +1,7 @@
 # Hola! mi nombre es Andrés Patiño
-### WordPress - FrontEnd Developer ⚡
+### WordPress - Front-End developer ⚡ 🚀  
 
-<p align="center">
+<p align="left">
    <a href="https://www.linkedin.com/in/andres-felipe-patino-vallejo/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="midudev" height="28px" width="28px" />
   </a>
