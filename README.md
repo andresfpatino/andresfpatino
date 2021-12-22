@@ -5,7 +5,7 @@ I'm Andrés Patiño, I'm a WordPress Developer Specialist, Consultant, Web Desig
 I have experience developing and structuring functional and appealing websites based on usability and approved prototypes. 
 By the way, being curious about what’s new, in development methods, tools, and so on it is one of my greatest strengths. 👨‍💻⚒🚀
 
-You can learn more about following me on [LinkedIn](https://www.linkedin.com/in/andres-felipe-patino-vallejo/).
+You can learn more about me following me on [LinkedIn](https://www.linkedin.com/in/andres-felipe-patino-vallejo/).
 
 <!--
 **andresfpatino/andresfpatino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
