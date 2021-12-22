@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andrés Patiño, I'm a WordPress Developer Specialist, Consultant, Web Designer and SEO
+I'm a WordPress Developer Specialist, Consultant, Web Designer and SEO.
 
 I have experience developing and structuring functional and appealing websites based on usability and approved prototypes. 
 By the way, being curious about what’s new, in development methods, tools, and so on it is one of my greatest strengths. 👨‍💻⚒🚀
